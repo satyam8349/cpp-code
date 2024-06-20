@@ -1,0 +1,112 @@
+switch statement--->
+==================
+
+switch()---> faster comparitively
+switch()--->possible outcome/input
+
+switch(character/integer)
+  
+
+
+syntax:
+
+switch(ingt/char){
+ 
+
+      case 0:
+             break;
+
+
+     case 1:
+           break;
+
+     case 2:
+           break; 
+    
+    default :       // optional
+
+}
+
+                  loop ststement:-
+                   ----------------
+
+(1)  for loop
+(2)  while loop
+(3)  do-while loop 
+
+1)   iteration dependent(cycle)--->known/presume-->certain.(for)
+2)   condication dependent------>unknown  --->uncertain.(while)
+
+    while--->entry control loop.
+    do-whille----->exit control loop.
+
+ 
+    syntax of for loop:-
+    ==================
+
+    for(initialization_cv;test_expression;updation){           (cv-control variable)
+     
+    // body of for loop
+    }
+
+
+    (Q.1) wpa to display 10 natural number start form 1.
+
+     (int i=1;i>=0;i++)  infinite loop.
+     (int i=10;i>=1;i--)   decrement loop.
+
+Q.1) wpa to display a multiple table.
+Q.2) wpa to take an inputs and add all of them and display result
+Q.3) wpa to add netural number.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
